@@ -1,0 +1,13 @@
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.exe
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.deps.json
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.json
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.dll
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.pdb
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.dll
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.pdb
+C:\Users\vinic\OneDrive\Documentos\C# POO\Projetos\cap06\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.genruntimeconfig.cache
